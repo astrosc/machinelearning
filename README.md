@@ -8,3 +8,9 @@ Python code using scikit-learn to compare and visualize different classifiers an
   - matplotlib to illustrate decision boundaries based on predicted probabilities of classes
   - determines values for ROC curve
   - plots ROC-AUC (area under the curve)  
+
+naiveBayes:
+Classification with Naive Bayes on iris dataset:
+  - GaussianNB()
+  - Evaluation with accuracy_score and classification_report
+  
